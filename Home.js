@@ -56,7 +56,7 @@
             return ctx.sync();
         })
             .then(function () {
-                app.showNotification("Success");
+                app.showNotification("Success",$("#textfield-subject").val());
                 console.log("Success!");
             })
             .catch(function (error) {

@@ -43,8 +43,7 @@
 }
 
 #notification-message #notification-message-close {
-    background-image: url("https://devofficecdn.azureedge.net/officedocuments/images/Close.png");
-    background-repeat: no-repeat;
+    background: url("images/ic_close_white_24dp_2x.png") no-repeat;
     width: 24px;
     height: 24px;
     position: absolute;

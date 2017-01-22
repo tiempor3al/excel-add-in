@@ -43,7 +43,7 @@
 }
 
 #notification-message #notification-message-close {
-    background: url("images/ic_close_white_24dp_2x.png") no-repeat;
+    background: url("images/ic_close_white_24dp_1x.png") no-repeat;
     width: 24px;
     height: 24px;
     position: absolute;
